@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-09T20:58:59 EDT" name="Suite" finished-at="2025-04-09T21:03:16 EDT" duration-ms="257412">
+    <groups>
+    </groups>
+    <test started-at="2025-04-09T20:58:59 EDT" name="Test" finished-at="2025-04-09T21:03:16 EDT" duration-ms="257412">
+      <class name="com.Automation.Tests.UserMenuDropDownTest">
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T20:58:59 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T20:59:10 EDT" duration-ms="11410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="Add_photo()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T20:59:10 EDT" name="Add_photo" finished-at="2025-04-09T20:59:22 EDT" duration-ms="11542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_photo -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T20:59:22 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T20:59:25 EDT" duration-ms="3451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T20:59:25 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T20:59:36 EDT" duration-ms="10945" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="Developer_console()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T20:59:36 EDT" name="Developer_console" finished-at="2025-04-09T20:59:56 EDT" duration-ms="19817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Developer_console -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T20:59:56 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T20:59:59 EDT" duration-ms="3064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T20:59:59 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T21:00:10 EDT" duration-ms="11026" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="Edit_profile()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:00:10 EDT" name="Edit_profile" finished-at="2025-04-09T21:00:27 EDT" duration-ms="16962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Edit_profile -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:00:27 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T21:00:30 EDT" duration-ms="3456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:00:30 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T21:00:42 EDT" duration-ms="11091" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="File_link()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:00:42 EDT" name="File_link" finished-at="2025-04-09T21:00:59 EDT" duration-ms="17363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- File_link -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:00:59 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T21:01:02 EDT" duration-ms="3473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:01:02 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T21:01:13 EDT" duration-ms="11007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="Logout()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:01:13 EDT" name="Logout" finished-at="2025-04-09T21:01:18 EDT" duration-ms="4758" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: #left
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '21.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [dca678fe-5ac7-4f76-adde-2300da4397a6, findElement {using=id, value=left}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 6967, moz:profile: /var/folders/hp/xl_3r0gx78v..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: dca678fe-5ac7-4f76-adde-2300da4397a6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: #left
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '21.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [dca678fe-5ac7-4f76-adde-2300da4397a6, findElement {using=id, value=left}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 6967, moz:profile: /var/folders/hp/xl_3r0gx78v..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: dca678fe-5ac7-4f76-adde-2300da4397a6
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at com.Automation.Tests.UserMenuDropDownTest.Logout(UserMenuDropDownTest.java:377)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:01:18 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T21:01:22 EDT" duration-ms="3459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:01:22 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T21:01:33 EDT" duration-ms="11148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="My_Settings()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:01:33 EDT" name="My_Settings" finished-at="2025-04-09T21:01:59 EDT" duration-ms="26189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- My_Settings -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:01:59 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T21:02:02 EDT" duration-ms="3483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:02:02 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T21:02:13 EDT" duration-ms="11024" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="My_profile()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:02:13 EDT" name="My_profile" finished-at="2025-04-09T21:02:22 EDT" duration-ms="8805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- My_profile -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:02:22 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T21:02:26 EDT" duration-ms="3462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:02:26 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T21:02:37 EDT" duration-ms="11510" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="Post_link()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:02:37 EDT" name="Post_link" finished-at="2025-04-09T21:02:51 EDT" duration-ms="14258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post_link -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:02:51 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T21:02:55 EDT" duration-ms="3444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+        <test-method is-config="true" signature="SetUpBeforeMethod(java.lang.String)[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:02:55 EDT" name="SetUpBeforeMethod" finished-at="2025-04-09T21:03:06 EDT" duration-ms="11279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBeforeMethod -->
+        <test-method signature="UserNavigation_menu()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:03:06 EDT" name="UserNavigation_menu" finished-at="2025-04-09T21:03:13 EDT" duration-ms="6454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserNavigation_menu -->
+        <test-method is-config="true" signature="TearDownAfterMethod()[pri:0, instance:com.Automation.Tests.UserMenuDropDownTest@42721fe]" started-at="2025-04-09T21:03:13 EDT" name="TearDownAfterMethod" finished-at="2025-04-09T21:03:16 EDT" duration-ms="3469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterMethod -->
+      </class> <!-- com.Automation.Tests.UserMenuDropDownTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,497 @@
+20250404 07:39:57 INFO  [main] Tests.LoginTest LoginTest.java72 - Forgot Password page is displayed!
+20250404 07:40:00 INFO  [main] Tests.LoginTest LoginTest.java89 - Email sent!
+20250404 07:40:13 INFO  [main] Tests.LoginTest LoginTest.java55 - Error message displayed!
+20250404 07:41:04 ERROR [main] Tests.LoginTest LoginTest.java120 - Mistake in error message!
+20250404 08:06:55 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java57 - The user navigation menu displayed with all options!
+20250404 12:43:47 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java295 - Reminder pop-up is displayed.
+20250404 12:47:21 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java295 - Reminder pop-up is displayed.
+20250405 08:51:02 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java327 - Developer console window is displayed.
+20250405 08:52:35 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java327 - Developer console window is displayed.
+20250405 08:56:32 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java328 - Developer console window is displayed.
+20250405 09:01:32 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java328 - Developer console window is displayed.
+20250405 09:05:43 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java328 - Developer console window is displayed.
+20250405 09:14:44 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java325 - Developer console window is displayed.
+20250405 09:14:44 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java334 - Developer console window is closed.
+20250405 09:17:22 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java325 - Developer console window is displayed.
+20250405 09:19:32 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java325 - Developer console window is displayed.
+20250405 09:22:46 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java325 - Developer console window is displayed.
+20250405 09:23:55 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java295 - Reminder pop-up is displayed.
+20250405 17:35:57 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java151 - Message posted successfully!
+20250405 17:42:47 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java98 - Edit profile pop up window displayed!
+20250405 17:42:49 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java121 - User Name updated!
+20250405 17:43:38 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java77 - User profile page is not displayed!
+20250405 20:44:14 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java222 - Header Match!
+20250406 17:49:55 INFO  [main] Tests.LoginTest LoginTest.java102 - Forgot Password page is displayed!
+20250406 17:49:57 INFO  [main] Tests.LoginTest LoginTest.java124 - Email sent!
+20250406 17:54:52 INFO  [main] Tests.LoginTest LoginTest.java102 - Forgot Password page is displayed!
+20250406 17:54:55 INFO  [main] Tests.LoginTest LoginTest.java124 - Email sent!
+20250406 17:56:52 INFO  [main] Tests.LoginTest LoginTest.java102 - Forgot Password page is displayed!
+20250406 17:56:54 INFO  [main] Tests.LoginTest LoginTest.java124 - Email sent!
+20250406 17:58:34 INFO  [main] Tests.LoginTest LoginTest.java102 - Forgot Password page is displayed!
+20250406 17:58:37 INFO  [main] Tests.LoginTest LoginTest.java124 - Email sent!
+20250406 18:01:50 INFO  [main] Tests.LoginTest LoginTest.java102 - Forgot Password page is displayed!
+20250406 18:01:52 INFO  [main] Tests.LoginTest LoginTest.java124 - Email sent!
+20250406 18:32:38 INFO  [main] Tests.LoginTest LoginTest.java56 - After logging out Username is displayed while remember me is checked! 
+20250406 18:32:38 ERROR [main] Tests.LoginTest LoginTest.java162 - Mistake in error message!
+20250406 18:36:59 INFO  [main] Tests.LoginTest LoginTest.java103 - Forgot Password page is displayed!
+20250406 18:37:01 INFO  [main] Tests.LoginTest LoginTest.java125 - Email sent!
+20250406 18:39:03 INFO  [main] Tests.LoginTest LoginTest.java103 - Forgot Password page is displayed!
+20250406 18:39:05 INFO  [main] Tests.LoginTest LoginTest.java125 - Email sent!
+20250406 18:41:14 INFO  [main] Tests.LoginTest LoginTest.java103 - Forgot Password page is displayed!
+20250406 18:41:17 INFO  [main] Tests.LoginTest LoginTest.java125 - Email sent!
+20250406 18:42:27 INFO  [main] Tests.LoginTest LoginTest.java103 - Forgot Password page is displayed!
+20250406 18:42:29 INFO  [main] Tests.LoginTest LoginTest.java125 - Email sent!
+20250406 18:42:44 INFO  [main] Tests.LoginTest LoginTest.java82 - Error message displayed!
+20250406 18:43:34 INFO  [main] Tests.LoginTest LoginTest.java57 - After logging out Username is displayed while remember me is checked! 
+20250406 18:43:52 ERROR [main] Tests.LoginTest LoginTest.java164 - Mistake in error message!
+20250406 18:53:48 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java362 - Developer console window is displayed.
+20250406 18:54:24 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java106 - Edit profile pop up window displayed!
+20250406 18:54:25 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java129 - User Name updated!
+20250406 18:55:35 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java329 - Reminder pop-up is displayed.
+20250406 18:56:01 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java82 - User profile page is not displayed!
+20250406 18:56:30 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java168 - Message posted successfully!
+20250406 18:56:51 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java62 - The user navigation menu displayed with all options!
+20250406 19:08:23 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java386 - Developer console window is displayed.
+20250406 19:08:59 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java116 - Edit profile pop up window displayed!
+20250406 19:09:01 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java141 - User Name updated!
+20250406 19:10:14 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java350 - Reminder pop-up is displayed.
+20250406 19:10:40 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java90 - User profile page is not displayed!
+20250406 19:11:09 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java183 - Message posted successfully!
+20250406 19:11:32 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java65 - The user navigation menu displayed with all options!
+20250406 19:19:31 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java394 - Developer console window is displayed.
+20250406 19:20:08 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java116 - Edit profile pop up window displayed!
+20250406 19:20:10 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java141 - User Name updated!
+20250406 19:20:44 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java217 - File uploaded succesfully!
+20250406 19:21:23 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java358 - Reminder pop-up is displayed.
+20250406 19:21:49 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java87 - User profile page is displayed!
+20250406 19:22:18 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java183 - Message posted successfully!
+20250406 19:22:40 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java65 - The user navigation menu displayed with all options!
+20250406 19:28:25 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java257 - Photo uploaded successfully..
+20250406 19:31:48 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java257 - Photo uploaded successfully..
+20250406 19:33:25 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java257 - Photo uploaded successfully..
+20250406 20:05:45 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java259 - Photo uploaded successfully..
+20250406 20:08:39 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java259 - Photo uploaded successfully..
+20250406 20:11:52 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java259 - Photo uploaded successfully..
+20250406 20:14:54 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java259 - Photo uploaded successfully..
+20250406 20:16:21 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java259 - Photo uploaded successfully..
+20250406 20:17:52 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java259 - Photo uploaded successfully..
+20250407 08:40:41 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java282 - Header Match!
+20250407 08:41:11 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java163 - Newly added view displayed
+20250407 08:45:44 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java163 - Newly added view displayed
+20250407 08:58:58 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java163 - Newly added view displayed
+20250407 08:59:58 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java283 - Header Match!
+20250407 11:26:27 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java163 - Newly added view displayed
+20250407 11:26:28 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java169 - Newly added view deleted!
+20250407 11:26:55 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java212 - Account Merged!
+20250407 11:27:20 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java79 - Alert accepted!
+20250407 11:37:24 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java79 - Alert accepted!
+20250407 11:46:05 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java285 - Header Match!
+20250407 11:49:27 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java285 - Header Match!
+20250407 11:51:10 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java285 - Header Match!
+20250407 12:00:08 INFO  [main] Tests.Create_Account_Test Create_Account_Test.java285 - Header Match!
+20250409 09:31:17 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 09:31:17 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 09:31:30 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Forgot_password started............
+20250409 09:31:30 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username
+20250409 09:31:31 INFO  [main] Base.BaseTest BaseTest.java97 - forgotpassword button is clicked!
+20250409 09:31:33 INFO  [main] Tests.LoginTest LoginTest.java82 - Forgot Password page is displayed!
+20250409 09:31:33 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username1
+20250409 09:31:34 INFO  [main] Base.BaseTest BaseTest.java97 - continue_button button is clicked!
+20250409 09:31:36 INFO  [main] Tests.LoginTest LoginTest.java104 - Email sent!
+20250409 09:31:36 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Forgot_password ended with success!
+20250409 09:31:51 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Salesforce_InvalidLogin started............
+20250409 09:31:51 INFO  [main] Tests.LoginTest LoginTest.java63 - Error message displayed!
+20250409 09:31:51 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Salesforce_InvalidLogin ended with success!
+20250409 09:32:06 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Salesforce_login started............
+20250409 09:32:06 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username
+20250409 09:32:06 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to password
+20250409 09:32:06 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Salesforce_login ended with failure!
+20250409 09:32:20 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - ValidateLoginErrorMessage started............
+20250409 09:32:24 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username
+20250409 09:32:24 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to password
+20250409 09:32:24 INFO  [main] Base.BaseTest BaseTest.java97 - Login button is clicked!
+20250409 09:32:24 ERROR [main] Tests.LoginTest LoginTest.java139 - Mistake in error message!
+20250409 09:32:24 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - ValidateLoginErrorMessage ended with success!
+20250409 09:32:39 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - logout started............
+20250409 09:32:39 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username
+20250409 09:32:39 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to password
+20250409 09:32:39 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - logout ended with failure!
+20250409 09:32:42 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 09:32:42 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 09:38:08 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 09:38:08 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 09:38:20 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Forgot_password started............
+20250409 09:38:20 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username
+20250409 09:38:20 INFO  [main] Base.BaseTest BaseTest.java97 - forgotpassword button is clicked!
+20250409 09:38:22 INFO  [main] Tests.LoginTest LoginTest.java82 - Forgot Password page is displayed!
+20250409 09:38:22 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username1
+20250409 09:38:23 INFO  [main] Base.BaseTest BaseTest.java97 - continue_button button is clicked!
+20250409 09:38:25 INFO  [main] Tests.LoginTest LoginTest.java104 - Email sent!
+20250409 09:38:25 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Forgot_password ended with success!
+20250409 09:38:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Salesforce_InvalidLogin started............
+20250409 09:38:59 INFO  [main] Tests.LoginTest LoginTest.java63 - Error message displayed!
+20250409 09:38:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Salesforce_InvalidLogin ended with success!
+20250409 09:39:14 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Salesforce_login started............
+20250409 09:39:14 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username
+20250409 09:39:14 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to password
+20250409 09:39:14 INFO  [main] Base.BaseTest BaseTest.java97 - Remember_Me button is clicked!
+20250409 09:39:15 INFO  [main] Base.BaseTest BaseTest.java97 - Login button is clicked!
+20250409 09:39:20 INFO  [main] Tests.LoginTest LoginTest.java49 - Succesfully logged in!
+20250409 09:39:20 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Salesforce_login ended with success!
+20250409 09:39:35 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - ValidateLoginErrorMessage started............
+20250409 09:39:38 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username
+20250409 09:39:38 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to password
+20250409 09:39:38 INFO  [main] Base.BaseTest BaseTest.java97 - Login button is clicked!
+20250409 09:39:38 ERROR [main] Tests.LoginTest LoginTest.java139 - Mistake in error message!
+20250409 09:39:38 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - ValidateLoginErrorMessage ended with success!
+20250409 09:39:53 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - logout started............
+20250409 09:39:53 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to username
+20250409 09:39:53 INFO  [main] Base.BaseTest BaseTest.java82 - Data is entered to password
+20250409 09:39:53 INFO  [main] Base.BaseTest BaseTest.java97 - Remember_Me button is clicked!
+20250409 09:39:54 INFO  [main] Base.BaseTest BaseTest.java97 - Login button is clicked!
+20250409 09:39:59 INFO  [main] Base.BaseTest BaseTest.java97 - user_Dropdownarrow button is clicked!
+20250409 09:39:59 INFO  [main] Base.BaseTest BaseTest.java97 - Logout button is clicked!
+20250409 09:40:03 INFO  [main] Tests.LoginTest LoginTest.java41 - After logging out Username is displayed while remember me is checked! 
+20250409 09:40:03 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - logout ended with success!
+20250409 09:40:06 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 09:40:06 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 14:40:54 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 14:40:54 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 14:41:07 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Forgot_password started............
+20250409 14:41:07 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Forgot_password ended with failure!
+20250409 14:41:22 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Salesforce_InvalidLogin_ValidteErrorMessage started............
+20250409 14:41:22 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Salesforce_InvalidLogin_ValidteErrorMessage ended with failure!
+20250409 14:41:36 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Salesforce_login started............
+20250409 14:41:36 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Salesforce_login ended with failure!
+20250409 14:41:51 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - logout started............
+20250409 14:41:51 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - logout ended with failure!
+20250409 14:41:54 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 14:41:54 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 14:46:48 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 14:46:48 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 14:46:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Forgot_password started............
+20250409 14:46:59 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Forgot_password ended with failure!
+20250409 14:48:03 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 14:48:03 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 14:48:15 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Forgot_password started............
+20250409 14:48:15 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Forgot_password ended with failure!
+20250409 16:17:25 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 16:31:22 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 16:43:24 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 16:43:24 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 16:43:36 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Forgot_password started............
+20250409 16:43:36 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 16:43:36 INFO  [main] Pages.BasePage BasePage.java50 - ForgotPassword button is clicked!
+20250409 16:43:38 INFO  [main] Tests.LoginTest LoginTest.java90 - Forgot Password page is displayed!
+20250409 16:43:38 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to username1
+20250409 16:43:39 INFO  [main] Pages.BasePage BasePage.java50 - continue_button button is clicked!
+20250409 16:43:41 INFO  [main] Tests.LoginTest LoginTest.java106 - Email sent!
+20250409 16:43:41 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Forgot_password ended with success!
+20250409 16:43:56 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Salesforce_InvalidLogin_ValidteErrorMessage started............
+20250409 16:43:56 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 16:43:56 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 16:43:56 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 16:43:56 INFO  [main] Tests.LoginTest LoginTest.java71 - Correct error message is displayed!
+20250409 16:43:56 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Salesforce_InvalidLogin_ValidteErrorMessage ended with success!
+20250409 16:44:11 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Salesforce_login started............
+20250409 16:44:11 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 16:44:11 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 16:44:11 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 16:44:14 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 16:44:14 INFO  [main] Tests.LoginTest LoginTest.java55 - Succesfully logged in!
+20250409 16:44:14 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Salesforce_login ended with success!
+20250409 16:44:29 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - logout started............
+20250409 16:44:29 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 16:44:29 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 16:44:29 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 16:44:30 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 16:44:30 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - logout ended with failure!
+20250409 16:44:34 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 16:44:34 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 16:48:22 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 16:58:17 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 16:58:17 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 16:58:29 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_profile started............
+20250409 16:58:29 WARN  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java64 - My_profile@Test got skipped
+20250409 16:58:29 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - UserNavigation_menu started............
+20250409 16:58:29 WARN  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java64 - UserNavigation_menu@Test got skipped
+20250409 16:58:29 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 16:58:29 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 16:59:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 16:59:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:00:10 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_profile started............
+20250409 17:00:10 WARN  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java64 - My_profile@Test got skipped
+20250409 17:00:10 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - UserNavigation_menu started............
+20250409 17:00:10 WARN  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java64 - UserNavigation_menu@Test got skipped
+20250409 17:00:10 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:00:10 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 17:00:54 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 17:00:54 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:01:06 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_profile started............
+20250409 17:01:06 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:01:06 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:01:06 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:01:09 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:01:10 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java75 - User profile page is displayed!
+20250409 17:01:10 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - My_profile ended with failure!
+20250409 17:01:25 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - UserNavigation_menu started............
+20250409 17:01:25 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:01:25 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:01:25 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:01:26 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:01:26 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - UserNavigation_menu ended with failure!
+20250409 17:01:30 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:01:30 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 17:08:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 17:08:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:09:11 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_profile started............
+20250409 17:09:11 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:09:11 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:09:11 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:09:12 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:09:12 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - My_profile ended with failure!
+20250409 17:09:27 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - UserNavigation_menu started............
+20250409 17:09:27 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:09:27 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:09:27 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:09:28 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:09:28 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - UserNavigation_menu ended with failure!
+20250409 17:09:32 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:09:32 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 17:10:10 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 17:10:10 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:10:21 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_profile started............
+20250409 17:10:21 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:10:21 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:10:22 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:10:22 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:10:22 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - My_profile ended with failure!
+20250409 17:10:37 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - UserNavigation_menu started............
+20250409 17:10:37 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:10:37 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:10:37 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:10:38 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:10:38 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - UserNavigation_menu ended with failure!
+20250409 17:10:42 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:10:42 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 17:12:22 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 17:12:23 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:12:34 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_profile started............
+20250409 17:12:34 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:12:34 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:12:35 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:12:35 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:12:38 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - My_profile ended with failure!
+20250409 17:12:53 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - UserNavigation_menu started............
+20250409 17:12:53 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:12:53 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:12:53 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:12:54 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:13:00 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java54 - The user navigation menu displayed with all options!
+20250409 17:13:00 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - UserNavigation_menu ended with success!
+20250409 17:13:03 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:13:03 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 17:13:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 17:13:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:14:11 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_profile started............
+20250409 17:14:11 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:14:11 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:14:11 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:14:13 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:14:20 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java78 - User profile page is displayed!
+20250409 17:14:20 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - My_profile ended with success!
+20250409 17:14:35 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - UserNavigation_menu started............
+20250409 17:14:35 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:14:35 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:14:35 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:14:36 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:14:41 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java54 - The user navigation menu displayed with all options!
+20250409 17:14:41 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - UserNavigation_menu ended with success!
+20250409 17:14:45 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:14:45 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 17:42:31 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 17:42:31 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:42:43 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Edit_profile started............
+20250409 17:42:43 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:42:43 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:42:43 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:42:44 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:42:47 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Edit_profile ended with failure!
+20250409 17:42:51 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:42:51 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 17:44:38 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 17:44:38 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:44:50 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Edit_profile started............
+20250409 17:44:50 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:44:50 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:44:50 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:44:51 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:45:04 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java107 - Edit profile pop up window displayed!
+20250409 17:45:05 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Last_name
+20250409 17:45:05 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Edit_profile ended with failure!
+20250409 17:45:08 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:45:08 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 17:47:13 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 17:47:13 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 17:47:24 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Edit_profile started............
+20250409 17:47:24 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 17:47:24 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 17:47:24 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 17:47:25 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 17:47:38 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java107 - Edit profile pop up window displayed!
+20250409 17:47:39 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Last_name
+20250409 17:47:40 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java123 - User Name updated!
+20250409 17:47:40 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Edit_profile ended with success!
+20250409 17:47:44 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 17:47:44 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 19:22:22 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 19:22:22 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 19:22:34 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Add_photo started............
+20250409 19:22:34 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 19:22:34 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 19:22:34 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 19:22:35 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 19:22:45 INFO  [main] Pages.BasePage BasePage.java50 - Moderate button is clicked!
+20250409 19:22:45 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Add_photo ended with failure!
+20250409 19:22:49 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 19:22:49 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 19:23:51 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 19:23:51 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 19:24:02 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Add_photo started............
+20250409 19:24:02 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 19:24:02 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 19:24:02 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 19:24:03 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 19:24:13 INFO  [main] Pages.BasePage BasePage.java50 - Moderate button is clicked!
+20250409 19:24:16 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Add_photo ended with failure!
+20250409 19:24:20 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 19:24:20 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 19:27:00 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 19:27:00 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 19:27:12 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Add_photo started............
+20250409 19:27:12 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 19:27:12 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 19:27:12 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 19:27:14 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 19:27:25 INFO  [main] Pages.BasePage BasePage.java50 - Moderate button is clicked!
+20250409 19:27:28 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Add_photo ended with failure!
+20250409 19:27:31 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 19:27:31 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 19:29:49 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 19:29:50 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 19:30:01 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Add_photo started............
+20250409 19:30:01 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 19:30:01 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 19:30:01 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 19:30:02 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 19:30:13 INFO  [main] Pages.BasePage BasePage.java50 - Moderate button is clicked!
+20250409 19:30:16 INFO  [main] Pages.BasePage BasePage.java85 - Switched Frame
+20250409 19:30:16 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to PicPath
+20250409 19:30:21 INFO  [main] Pages.BasePage BasePage.java85 - Switched Frame
+20250409 19:30:24 INFO  [main] Pages.BasePage BasePage.java50 - SavePic button is clicked!
+20250409 19:30:31 INFO  [main] Pages.BasePage BasePage.java85 - Switched Frame
+20250409 19:30:36 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java228 - Photo uploaded successfully..
+20250409 19:30:39 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Add_photo ended with success!
+20250409 19:30:43 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 19:30:43 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
+20250409 20:58:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java26 - SuiteStarted..................
+20250409 20:58:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java37 - TestStarted..................
+20250409 20:59:10 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Add_photo started............
+20250409 20:59:10 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 20:59:10 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 20:59:10 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 20:59:11 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 20:59:22 INFO  [main] Pages.BasePage BasePage.java50 - Moderate button is clicked!
+20250409 20:59:22 ERROR [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java234 - Photo uploaded successfully..
+20250409 20:59:22 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Add_photo ended with success!
+20250409 20:59:36 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Developer_console started............
+20250409 20:59:36 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 20:59:36 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 20:59:36 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 20:59:37 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 20:59:49 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java355 - Developer console window is displayed.
+20250409 20:59:56 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Developer_console ended with success!
+20250409 21:00:10 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Edit_profile started............
+20250409 21:00:10 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 21:00:10 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 21:00:10 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 21:00:11 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 21:00:21 INFO  [main] Pages.BasePage BasePage.java50 - dropdown_arrow button is clicked!
+20250409 21:00:21 INFO  [main] Pages.BasePage BasePage.java50 - Edit_profile button is clicked!
+20250409 21:00:24 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java108 - Edit profile pop up window displayed!
+20250409 21:00:24 INFO  [main] Pages.BasePage BasePage.java50 - Popup_About_tab button is clicked!
+20250409 21:00:24 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Last_name
+20250409 21:00:27 INFO  [main] Pages.BasePage BasePage.java50 - Save_all button is clicked!
+20250409 21:00:27 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java124 - User Name updated!
+20250409 21:00:27 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Edit_profile ended with success!
+20250409 21:00:42 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - File_link started............
+20250409 21:00:42 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 21:00:42 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 21:00:42 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 21:00:43 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 21:00:52 INFO  [main] Pages.BasePage BasePage.java50 - File_link button is clicked!
+20250409 21:00:56 INFO  [main] Pages.BasePage BasePage.java50 - Upload_from_computer button is clicked!
+20250409 21:00:56 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to filePath
+20250409 21:00:56 INFO  [main] Pages.BasePage BasePage.java50 - ShareFile button is clicked!
+20250409 21:00:59 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java191 - File uploaded succesfully!
+20250409 21:00:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - File_link ended with success!
+20250409 21:01:13 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Logout started............
+20250409 21:01:13 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 21:01:13 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 21:01:14 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 21:01:15 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 21:01:18 ERROR [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java58 - Logout ended with failure!
+20250409 21:01:33 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_Settings started............
+20250409 21:01:33 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 21:01:33 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 21:01:33 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 21:01:34 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 21:01:38 INFO  [main] Pages.BasePage BasePage.java50 - Personal button is clicked!
+20250409 21:01:39 INFO  [main] Pages.BasePage BasePage.java50 - login_history_tab button is clicked!
+20250409 21:01:39 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java258 - Login History Page displayed!
+20250409 21:01:39 INFO  [main] Pages.BasePage BasePage.java50 - display_and_layout_tab button is clicked!
+20250409 21:01:40 INFO  [main] Pages.BasePage BasePage.java50 - Customise_my_tabs button is clicked!
+20250409 21:01:40 INFO  [main] Pages.BasePage BasePage.java50 - saleforce_chatter button is clicked!
+20250409 21:01:41 INFO  [main] Pages.BasePage BasePage.java50 - Reports button is clicked!
+20250409 21:01:41 INFO  [main] Pages.BasePage BasePage.java50 - Add_button button is clicked!
+20250409 21:01:41 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java273 - Reports and Chatter tabs added!
+20250409 21:01:42 INFO  [main] Pages.BasePage BasePage.java50 - SelectedTabs_SaveButton button is clicked!
+20250409 21:01:47 INFO  [main] Pages.BasePage BasePage.java50 - Email_tab button is clicked!
+20250409 21:01:48 INFO  [main] Pages.BasePage BasePage.java50 - My_email_settings button is clicked!
+20250409 21:01:48 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Email_name
+20250409 21:01:48 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Email_address
+20250409 21:01:48 INFO  [main] Pages.BasePage BasePage.java50 - Automatic_Bcc button is clicked!
+20250409 21:01:49 INFO  [main] Pages.BasePage BasePage.java50 - Save_EmailSettings button is clicked!
+20250409 21:01:49 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java291 - Changes to email settings not saved!
+20250409 21:01:50 INFO  [main] Pages.BasePage BasePage.java50 - Calendars_and_reminders_tab button is clicked!
+20250409 21:01:50 INFO  [main] Pages.BasePage BasePage.java50 - Activity_reminders button is clicked!
+20250409 21:01:50 INFO  [main] Pages.BasePage BasePage.java50 - Open_a_test_Remainder button is clicked!
+20250409 21:01:55 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java318 - Reminder pop-up is displayed.
+20250409 21:01:56 INFO  [main] Pages.BasePage BasePage.java50 - Dismiss_all button is clicked!
+20250409 21:01:59 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - My_Settings ended with success!
+20250409 21:02:13 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - My_profile started............
+20250409 21:02:14 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 21:02:14 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 21:02:14 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 21:02:15 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 21:02:22 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java80 - User profile page is displayed!
+20250409 21:02:22 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - My_profile ended with success!
+20250409 21:02:37 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - Post_link started............
+20250409 21:02:37 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 21:02:37 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 21:02:38 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 21:02:38 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 21:02:48 INFO  [main] Pages.BasePage BasePage.java50 - Post_link button is clicked!
+20250409 21:02:51 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to TextBox
+20250409 21:02:51 INFO  [main] Pages.BasePage BasePage.java50 - SharePost button is clicked!
+20250409 21:02:51 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java163 - Message posted successfully!
+20250409 21:02:51 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - Post_link ended with success!
+20250409 21:03:06 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java48 - UserNavigation_menu started............
+20250409 21:03:06 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to UserName
+20250409 21:03:06 INFO  [main] Pages.BasePage BasePage.java35 - Data is entered to Password
+20250409 21:03:07 INFO  [main] Pages.BasePage BasePage.java50 - Remember_me button is clicked!
+20250409 21:03:07 INFO  [main] Pages.BasePage BasePage.java50 - Login_button button is clicked!
+20250409 21:03:13 INFO  [main] Tests.UserMenuDropDownTest UserMenuDropDownTest.java56 - The user navigation menu displayed with all options!
+20250409 21:03:13 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java53 - UserNavigation_menu ended with success!
+20250409 21:03:16 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java42 - TestEnded..................
+20250409 21:03:16 INFO  [main] Utility.SalesforceListenersUtility SalesforceListenersUtility.java32 - SuiteEnded..................
